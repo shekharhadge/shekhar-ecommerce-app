@@ -1,5 +1,5 @@
-# Build ECommerce Shopping Cart by React & Redux 2020 Edition
-
+# Shekhar E-Commerce Web Application
+Created by Shekhar Hadge
 Demo: https://reactredux-shoppingcart.herokuapp.com/
 
 [Get 90% Discount On This Course At Udemy](https://codingwithbasir.com/udemy-shopping-cart)
